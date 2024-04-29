@@ -13,11 +13,11 @@ ctypes.windll.kernel32.SetConsoleTitleW("Coded by github.com/dev6920")
 
 print("Coded by dev github/dev6920")
 
-while True:
+while True:yes
   
-  username = input("Enter username (type 'exit' to quit): ")
+  username = (dominic2939)
 
-  if username == "exit":
+  if username == (dominic2939)
     break
 
 
@@ -41,7 +41,7 @@ while True:
   if (match1 and match_player_name1):
     account_id = match1.group(1)
     player_name = match_player_name1.group(1)
-    print(f"Account ID: {account_id}")
-    print(f"Username: {player_name}")
+    print(f"Account ID: {dominic2939)
+    print(f"Username: {dominic299}")
   else:
     print("Cant find Account ID ")
