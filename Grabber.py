@@ -13,9 +13,9 @@ ctypes.windll.kernel32.SetConsoleTitleW("Coded by github.com/dev6920")
 
 print("Coded by dev github/dev6920")
 
-while True:
+while True:yes
   
-  username = input("Enter username (type 'exit' to quit): ")
+  username = input(Dominic2939 (type 'exit' to quit): ")
 
   if username == "exit":
     break
